@@ -401,7 +401,7 @@ p{
     }
   }
   
-  @media (max-width: 768px) {
+  @media (max-width: 838px) {
     .wrap-contact100 {
       padding: 110px 80px 157px 80px;
     }
@@ -417,7 +417,7 @@ p{
   
   }
   
-  @media (max-width: 576px) {
+  @media (max-width: 736px) {
     .wrap-contact100 {
       padding: 110px 15px 157px 15px;
     }
